@@ -26,14 +26,7 @@ h4{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
     
-     .card-text{
-        width: 80%;
-        margin-left: 30px;
-        font-size: larger;
-     }
-
-
-
+ 
      hr {
   border: dotted #eaf6f6 6px;
   border-bottom: none;
@@ -65,24 +58,16 @@ a{
 .inc{
 color:aliceblue;
 }
-.skills{
-    size: 90%;
+#foot{
+    
+    font-family: "Merriweather", serif;
 }
 
-h3{
-    z-index: 3;
+.space2{
+    margin: 60px auto;
 }
-@media (max-width: 990px){
-    .float{
-        float: left;
-    }
-    .card-text{
-        padding: 200px;
-        margin-left: 200px;
-        
-    }
-    .col-sm-4{
-        flex-direction: row;
-    }
 
+li:hover{
+color: dimgray;
 }
+
